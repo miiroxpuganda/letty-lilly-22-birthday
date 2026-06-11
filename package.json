@@ -1,0 +1,17 @@
+{
+  "name": "letty-lilly-22-birthday",
+  "version": "1.0.0",
+  "description": "A playful mobile-friendly 22nd birthday surprise for Letty Lilly.",
+  "scripts": {
+    "dev": "rspack serve",
+    "build": "rspack build",
+    "serve": "rspack serve"
+  },
+  "devDependencies": {
+    "@rspack/cli": "^0.5.0",
+    "@rspack/core": "^0.5.0",
+    "@rspack/plugin-html": "^0.5.0"
+  },
+  "author": "Miiro",
+  "license": "MIT"
+}

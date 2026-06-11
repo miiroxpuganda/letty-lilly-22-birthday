@@ -1,0 +1,30 @@
+{
+  "greeting": "Hey",
+  "name": "Letty Lilly",
+  "greetingText": "Also known as Leticia when she wants to act serious.",
+  "wishText": "Happy 22nd, Leticia. May this year bring you real joy, soft money, loud laughter, better selfies, and a man brave enough to finally show face because honestly, we are waiting. From your Ex Crush.",
+  "imagePath": "img/letty-lilly.jpg",
+  "text1": "Today is your 22nd birthday!!! :D",
+  "textInChatBox": "Happy 22nd birthday, Letty Lilly! You professional troublemaker, secret softie, and certified bad-person accuser. May your day be sweet, your account be less broke, and your mysterious man stop hiding. From your Ex Crush.",
+  "sendButtonLabel": "Send",
+  "text2": "I was going to send a normal birthday message.",
+  "text3": "Then I remembered who you are.",
+  "text4": "So I had to make something",
+  "text4Adjective": "extra",
+  "text5Entry": "Because,",
+  "text5Content": "you are annoying, funny, beautiful, and loved",
+  "smiley": ":)",
+  "bigTextPart1": "22",
+  "bigTextPart2": "!",
+  "wishHeading": "Happy 22nd, Letty!",
+  "outroText": "From your Ex Crush. Okay birthday girl, go enjoy your day and stop pretending you are not smiling.",
+  "replayText": "Click here to watch it again, or send it to the mysterious man.",
+  "outroSmiley": ":D",
+  "music": "./music/bgMusic.mp3",
+  "fonts": [
+    {
+      "name": "Poppins, sans-serif",
+      "path": "https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;800&display=swap"
+    }
+  ]
+}
